@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #cea9ec;
+  height: 95vh;
+  border: 18px solid rgb(90, 21, 122);
+}
+
+.darkpurp{
+  color: rgb(90, 21, 122);
+  font-size: 45px;
+}
+
+.pink{
+  color: rgb(158, 76, 90);
+  font-size: 40px;
+}
+
+.blue{
+  color: rgb(67, 67, 165);
+  font-size: 38px;
+}
+
+.green{
+  color: rgb(24, 80, 24);
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.yellow{
+  color: rgb(94, 134, 13);
+  font-size: 20px;
+}
